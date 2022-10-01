@@ -50,7 +50,7 @@ export const HomeDrawer = ({ navigation }): DrawerElement => {
             source={require("../../assets/images/image-app-icon.png")}
           />
           <Text style={styles.profileName} category="h6">
-            Cement App
+            Siva Tools
           </Text>
         </View>
       </Layout>

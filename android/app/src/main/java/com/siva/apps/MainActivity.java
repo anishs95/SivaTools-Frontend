@@ -1,4 +1,4 @@
-package com.siva.cements;
+package com.siva.apps;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,7 +8,7 @@ import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
 import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
-import com.siva.cements.packages.splash.SplashScreen;
+import com.siva.apps.packages.splash.SplashScreen;
 
 public class MainActivity extends ReactActivity {
 

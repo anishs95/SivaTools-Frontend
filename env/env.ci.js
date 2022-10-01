@@ -1,7 +1,7 @@
 const path = require("path");
 
 /**
- * Runs on Cement App CI
+ * Runs on Siva Tools CI
  * https://github.com/akveo/CementApp/blob/master/.github/workflows/publish-pr.yml
  */
 module.exports = {
