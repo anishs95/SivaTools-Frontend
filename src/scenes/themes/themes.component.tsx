@@ -98,7 +98,7 @@ export const ThemesScreen = ({ navigation }): React.ReactElement => {
 
   return (
     <SafeAreaLayout style={styles.safeArea} insets="top">
-      <TopNavigation title="Cement App" accessoryLeft={renderDrawerAction} />
+      <TopNavigation title="Siva Tools" accessoryLeft={renderDrawerAction} />
       <Divider />
       <List
         contentContainerStyle={styles.container}

@@ -1,4 +1,4 @@
-package com.siva.cements.packages.splash.animations;
+package com.siva.apps.packages.splash.animations;
 
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;

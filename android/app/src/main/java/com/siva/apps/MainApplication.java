@@ -1,4 +1,4 @@
-package com.siva.cements;
+package com.siva.apps;
 
 import android.app.Application;
 import android.content.Context;
@@ -7,7 +7,7 @@ import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.siva.cements.packages.splash.SplashScreenPackage;
+import com.siva.apps.packages.splash.SplashScreenPackage;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 

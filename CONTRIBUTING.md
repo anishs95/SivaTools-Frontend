@@ -1,6 +1,6 @@
-# Contributing to Cement App
+# Contributing to Siva Tools
 
-We would love for you to contribute to Cement App and help make it ever better together! :rocket:
+We would love for you to contribute to Siva Tools and help make it ever better together! :rocket:
 
 - [Code of Conduct](#coc)
 - [Question or Problem?](#question)
@@ -12,11 +12,11 @@ We would love for you to contribute to Cement App and help make it ever better t
 
 ## <a name="coc"></a> Code of Conduct
 
-Help us keep Cement App open and inclusive. Please read and follow our [Code of Conduct][coc].
+Help us keep Siva Tools open and inclusive. Please read and follow our [Code of Conduct][coc].
 
 ## <a name="question"></a> Got a Question or Problem?
 
-Please do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [StackOverflow][stackoverflow] where the questions should be tagged with tag `Cement App`.
+Please do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [StackOverflow][stackoverflow] where the questions should be tagged with tag `Siva Tools`.
 
 StackOverflow is a much better place to ask questions since:
 
@@ -32,7 +32,7 @@ If you find a bug in the source code or a mistake in the documentation, you can 
 
 Please follow this simple checklist before submitting:
 
-- If you have a question about using Cement App, please ask on the [StackOverflow][stackoverflow].
+- If you have a question about using Siva Tools, please ask on the [StackOverflow][stackoverflow].
 
 - It is required that you clearly describe the steps necessary to reproduce the issue you are running into. Although we would love to help our users as much as possible, diagnosing issues without clear reproduction steps is extremely time-consuming and simply not sustainable.
 
@@ -143,7 +143,7 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 
 We have very precise rules over how our git commit messages can be formatted. This leads to **more
 readable messages** that are easy to follow when looking through the **project history**. But also,
-we use the git commit messages to **generate the Cement App change log**.
+we use the git commit messages to **generate the Siva Tools change log**.
 
 ### Commit Message Format
 

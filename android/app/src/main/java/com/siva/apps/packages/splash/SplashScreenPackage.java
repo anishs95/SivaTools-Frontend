@@ -1,4 +1,4 @@
-package com.siva.cements.packages.splash;
+package com.siva.apps.packages.splash;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

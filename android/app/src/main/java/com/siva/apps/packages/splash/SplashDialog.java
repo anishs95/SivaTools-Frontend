@@ -1,4 +1,4 @@
-package com.siva.cements.packages.splash;
+package com.siva.apps.packages.splash;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 
-import com.siva.cements.R;
+import com.siva.apps.R;
 
 public class SplashDialog extends Dialog {
 

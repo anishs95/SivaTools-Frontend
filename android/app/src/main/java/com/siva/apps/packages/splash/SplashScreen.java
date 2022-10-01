@@ -1,11 +1,11 @@
-package com.siva.cements.packages.splash;
+package com.siva.apps.packages.splash;
 
 import android.app.Activity;
 import android.view.animation.Animation;
 import androidx.annotation.Nullable;
 
-import com.siva.cements.packages.splash.animations.SplashAnimation;
-import com.siva.cements.packages.splash.animations.SplashAnimator;
+import com.siva.apps.packages.splash.animations.SplashAnimation;
+import com.siva.apps.packages.splash.animations.SplashAnimator;
 
 import java.lang.ref.WeakReference;
 

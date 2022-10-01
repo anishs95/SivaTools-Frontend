@@ -10,7 +10,7 @@ Before running, application dependencies should be installed and linked.
 
 `yarn && npx react-native link && cd ios && pod install` from the project root.
 
-By default, Cement App starts like a regular React Native application. In case you want it to run
+By default, Siva Tools starts like a regular React Native application. In case you want it to run
 with Expo, see [Expo](#run-with-expo) section.
 
 `yarn start` from the project root to start Metro Bundler.
@@ -23,11 +23,11 @@ application on iOS, Android or Web.
 
 When running with Expo, `ios` and `android` folder are not needed for this project.
 Also, some of the business logic may have different implementation for Expo and Bare React Native apps.
-In Cement App, we handle it with [`.expo` file extension](https://docs.expo.io/versions/latest/bare/using-expo-client/#practical-patterns-for-client-compatible-bare-apps).
+In Siva Tools, we handle it with [`.expo` file extension](https://docs.expo.io/versions/latest/bare/using-expo-client/#practical-patterns-for-client-compatible-bare-apps).
 
 # Environments
 
-Cement App application supports two environments:
+Siva Tools application supports two environments:
 
 - **Production** (Provides Eva Design System and UI Kitten modules published to npm)
 - **Development** (Provides local Eva Design System and UI Kitten modules)
@@ -42,7 +42,7 @@ To switch environment manually, you can run `yarn env prod` or `yarn env dev`.
 
 ## Development mode
 
-- Clone Eva Design System and UI Kitten projects to the directory containing Cement App:
+- Clone Eva Design System and UI Kitten projects to the directory containing Siva Tools:
 
 ```bash
 git clone https://github.com/eva-design/eva && git clone https://github.com/akveo/react-native-ui-kitten
@@ -63,7 +63,7 @@ git clone https://github.com/eva-design/eva && git clone https://github.com/akve
 
 ## Transpile to JavaScript
 
-We use [Typescript](https://www.typescriptlang.org/) to build Cement App.
+We use [Typescript](https://www.typescriptlang.org/) to build Siva Tools.
 Use `yarn build` to compile it to JavaScript. This will output the source code with `.js` files in
 [`./dist/tsc-out`](./dist/tsc-out) dir.
 
@@ -76,7 +76,7 @@ This will output web bundle in [`./web-build`](./web-build) dir.
 
 # Reusing Screens
 
-All screens presented in Cement App application are listed in [`./src/layouts`](./src/layouts) directory and structured by following categories:
+All screens presented in Siva Tools application are listed in [`./src/layouts`](./src/layouts) directory and structured by following categories:
 
 - [Auth](./src/layouts/auth)
 - [Social](./src/layouts/social)

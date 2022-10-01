@@ -1,10 +1,10 @@
-package com.siva.cements.packages.splash;
+package com.siva.apps.packages.splash;
 
 import android.os.Handler;
 
 import androidx.annotation.Nullable;
 
-import com.siva.cements.packages.splash.animations.SplashAnimator;
+import com.siva.apps.packages.splash.animations.SplashAnimator;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;

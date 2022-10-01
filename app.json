@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Cement App",
+    "name": "Siva Tools",
     "slug": "kitten-tricks",
     "version": "1.0.0",
     "description": "UI Kitten Demo Application",
@@ -16,11 +16,7 @@
       "versionCode": 1
     },
     "privacy": "public",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android", "web"],
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "icon": "./src/assets/images/image-app-icon.png",
