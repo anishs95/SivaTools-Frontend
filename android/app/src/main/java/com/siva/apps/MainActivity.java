@@ -41,7 +41,7 @@ public class MainActivity extends ReactActivity {
   }
 
   @Override protected String getMainComponentName() {
-    return "CementApp";
+    return "SivaTools";
   }
 
   public static void start(Context context) {

@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet } from "react-native";
+import { StyleSheet, Text } from "react-native";
 import {
   Divider,
   TopNavigation,
@@ -26,7 +26,7 @@ export const LayoutsScreen = (props): React.ReactElement => {
     <SafeAreaLayout style={styles.safeArea} insets="top">
       <TopNavigation title="Siva Tools" accessoryLeft={renderDrawerAction} />
       <Divider />
-      <MenuGridList data={data} onItemPress={onItemPress} />
+      <Text>Hi Siva Tools</Text>
     </SafeAreaLayout>
   );
 };

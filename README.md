@@ -53,17 +53,17 @@ Easy way to integrate UI Kitten with backend ([Java][link:ui-kitten-bundle-java]
 Made with :heart: by [Akveo team][link:akveo-homepage]. Follow us on [Twitter][link:akveo-twitter] to get the latest news first!
 We're always happy to receive your feedback!
 
-[badge:github-actions]: https://github.com/akveo/CementApp/workflows/Build/badge.svg
+[badge:github-actions]: https://github.com/akveo/SivaTools/workflows/Build/badge.svg
 [badge:expo]: https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=ffffff&logoColor=000
 [badge:netlify]: https://api.netlify.com/api/v1/badges/95cdef77-0d68-49a1-a497-b305bb5e3f98/deploy-status
-[link:github-actions]: https://github.com/akveo/CementApp/actions
+[link:github-actions]: https://github.com/akveo/SivaTools/actions
 [link:expo]: https://expo.io/@ui-kitten/kitten-tricks
 [link:netlify]: https://kitten-tricks.netlify.com
 [link:eva]: https://eva.design?utm_campaign=eva_design%20-%20home%20-%20kitten_tricks%20github%20readme&utm_source=kitten_tricks&utm_medium=referral&utm_content=github_readme_eva
 [link:doc-ui-kitten]: https://akveo.github.io/react-native-ui-kitten?utm_campaign=ui_kitten%20-%20home%20-%20kitten_tricks%20github%20readme&utm_source=kitten_tricks&utm_medium=referral&utm_content=github_readme_kitten_tricks
 [link:ui-kitten]: https://github.com/akveo/react-native-ui-kitten
 [link:app-store]: https://itunes.apple.com/us/app/kitten-tricks/id1246143230
-[link:google-play]: https://play.google.com/store/apps/details?id=com.akveo.CementApp
+[link:google-play]: https://play.google.com/store/apps/details?id=com.akveo.SivaTools
 [link:eva-icons]: https://github.com/akveo/eva-icons
 [link:akveo-homepage]: https://www.akveo.com?utm_campaign=services%20-%20homepage%20-%20kitten_tricks%20github%20readme&utm_source=kitten_tricks&utm_medium=referral&utm_content=github_readme_kitten_tricks
 [link:akveo-medium]: https://medium.com/akveo-engineering

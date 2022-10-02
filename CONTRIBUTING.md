@@ -214,8 +214,8 @@ The rest of the commit message is then used for this.
 
 [coc]: CODE_OF_CONDUCT.md
 [dev-doc]: DEV_DOCS.md
-[github]: https://github.com/akveo/CementApp
-[stackoverflow]: https://stackoverflow.com/questions/tagged/CementApp
-[issues]: https://github.com/akveo/CementApp/issues
-[new_issue]: https://github.com/akveo/CementApp/issues/new
-[pulls]: https://github.com/akveo/CementApp/pulls
+[github]: https://github.com/akveo/SivaTools
+[stackoverflow]: https://stackoverflow.com/questions/tagged/SivaTools
+[issues]: https://github.com/akveo/SivaTools/issues
+[new_issue]: https://github.com/akveo/SivaTools/issues/new
+[pulls]: https://github.com/akveo/SivaTools/pulls

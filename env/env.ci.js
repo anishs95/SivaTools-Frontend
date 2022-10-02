@@ -2,7 +2,7 @@ const path = require("path");
 
 /**
  * Runs on Siva Tools CI
- * https://github.com/akveo/CementApp/blob/master/.github/workflows/publish-pr.yml
+ * https://github.com/akveo/SivaTools/blob/master/.github/workflows/publish-pr.yml
  */
 module.exports = {
   ENV: "ci",

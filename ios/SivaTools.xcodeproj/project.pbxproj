@@ -311,8 +311,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.CementApp;
-				PRODUCT_NAME = CementApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.SivaTools;
+				PRODUCT_NAME = SivaTools;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -332,8 +332,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.CementApp;
-				PRODUCT_NAME = CementApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.SivaTools;
+				PRODUCT_NAME = SivaTools;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -387,8 +387,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.CementApp;
-				PRODUCT_NAME = CementApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.SivaTools;
+				PRODUCT_NAME = SivaTools;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -434,8 +434,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.CementApp;
-				PRODUCT_NAME = CementApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akveo.SivaTools;
+				PRODUCT_NAME = SivaTools;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};

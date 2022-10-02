@@ -53,7 +53,7 @@ git clone https://github.com/eva-design/eva && git clone https://github.com/akve
 ```
 - /
   - eva
-  - CementApp
+  - SivaTools
   - react-native-ui-kitten
 ```
 

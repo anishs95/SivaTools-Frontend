@@ -5,10 +5,10 @@
   "private": true,
   "license": "MIT",
   "author": "akveo <contact@akveo.com>",
-  "homepage": "https://github.com/akveo/CementApp#readme",
-  "repository": "git+https://github.com/akveo/CementApp.git",
+  "homepage": "https://github.com/akveo/SivaTools#readme",
+  "repository": "git+https://github.com/akveo/SivaTools.git",
   "bugs": {
-    "url": "https://github.com/akveo/CementApp/issues"
+    "url": "https://github.com/akveo/SivaTools/issues"
   },
   "main": "./index.js",
   "workspaces": {
