@@ -9,16 +9,6 @@ import {
   useStyleSheet,
   Icon,
 } from "@ui-kitten/components";
-import { ImageOverlay } from "./extra/image-overlay.component";
-import { ProfileAvatar } from "./extra/profile-avatar.component";
-import {
-  EmailIcon,
-  FacebookIcon,
-  GoogleIcon,
-  PersonIcon,
-  PlusIcon,
-  TwitterIcon,
-} from "./extra/icons";
 import AnimatedMultistep from "react-native-animated-multistep";
 
 import { KeyboardAvoidingView } from "./extra/3rd-party";
@@ -70,7 +60,7 @@ const themedStyles = StyleService.create({
     flex: 1,
   },
   topBox: {
-    flex: 0.1,
+    height: 80,
     flexDirection: "row",
     backgroundColor: "#046570",
     justifyContent: "center",

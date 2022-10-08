@@ -41,6 +41,10 @@ export default StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
+  lblStyle: {
+    backgroundColor: "#1aebb6",
+    borderRadius: 6,
+  },
   btnImage: {
     width: "40%",
     height: "40%",
