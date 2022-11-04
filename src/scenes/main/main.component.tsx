@@ -10,6 +10,9 @@ import { SafeAreaLayout } from "../../components/safe-area-layout.component";
 import { MenuGridList } from "../../components/menu-grid-list.component";
 import { MenuIcon } from "../../components/icons";
 import { data } from "./data";
+import { ApplicationProperties } from "../../configurations/ApplicationProperties";
+
+const version: string = ApplicationProperties.getVersion2();
 
 export const MainScreen = (props): React.ReactElement => {
   const onItemPress = (index: number): void => {
@@ -31,6 +34,7 @@ export const MainScreen = (props): React.ReactElement => {
       <TopNavigation title="Siva Tools" accessoryLeft={renderDrawerAction} />
       <Divider />
       <Text>Hi Siva Tools mains</Text>
+      <Text>{version}</Text>
       <Button size="giant" onPress={onCustomerRegistrationButtonPress}>
         Customer Registration
       </Button>

@@ -35,27 +35,27 @@ export default (props): React.ReactElement => {
     });
     //  alert(JSON.stringify(props.getState()));
     // Go to next step
-    // next();
+    next();
 
-    fetch(
-      "http://cementapp-env.eba-pwzigxq8.us-east-1.elasticbeanstalk.com/customerservice/customer",
-      {
-        method: "POST",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(props.getState()),
-      }
-    )
-      .then((response) => response.json())
-      .then((json) => {
-        alert("SUCCESS");
-        return json;
-      })
-      .catch((error) => {
-        alert("Already registerd user , Try Log IN");
-      });
+    // fetch(
+    //   "http://cementapp-env.eba-pwzigxq8.us-east-1.elasticbeanstalk.com/customerservice/customer",
+    //   {
+    //     method: "POST",
+    //     headers: {
+    //       Accept: "application/json",
+    //       "Content-Type": "application/json",
+    //     },
+    //     body: JSON.stringify(props.getState()),
+    //   }
+    // )
+    //   .then((response) => response.json())
+    //   .then((json) => {
+    //     alert("SUCCESS");
+    //     return json;
+    //   })
+    //   .catch((error) => {
+    //     alert("Already registerd user , Try Log IN");
+    //   });
   };
 
   const onChange = (value, name, id) => {
